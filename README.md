@@ -1,0 +1,2 @@
+# Introduction_to_artificial_intelligence_2020_2
+인공지능개론-김은이 교수님
